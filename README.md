@@ -1,3 +1,3 @@
-<h1>Dogecoin test node deployment</h1>
+<h1>Litecoin testnet node deployment</h1>
 
-This small Terraform deployment launches a dogecoin test node into EC2 and configures the node. 
+This small Terraform deployment launches a litecoin testnet node into EC2 and configures the node. 
