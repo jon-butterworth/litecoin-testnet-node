@@ -1,0 +1,4 @@
+amis:
+  eu-west-1: ami-00b1c9efd33fda707
+  us-east-1: ami-022e1a32d3f742bd8
+region: us-east-1
